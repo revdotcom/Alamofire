@@ -24,7 +24,7 @@ Alamofire is an HTTP networking library written in Swift.
 
 ## Requirements
 
-- iOS 8.0+ / Mac OS X 10.9+ / watchOS 2
+- iOS 9.0+ / Mac OS X 10.9+ / watchOS 2
 - Xcode 7.0+
 
 ## Migration Guides
@@ -59,10 +59,10 @@ To integrate Alamofire into your Xcode project using CocoaPods, specify it in yo
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '8.0'
+platform :ios, '9.0'
 use_frameworks!
 
-pod 'Alamofire', '~> 2.0'
+pod 'Alamofire', '~>3.0.0-beta'
 ```
 
 Then, run the following command:

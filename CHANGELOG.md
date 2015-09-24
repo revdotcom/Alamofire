@@ -564,7 +564,7 @@ Released on 2015-05-13. All issues associated with this milestone can be found u
 - Documentation for the `Printable` protocol on `Request` to reference output stream
 rather than the specific `OutputStreamType`.
   - Updated by [Mattt Thompson](https://github.com/mattt).
-- Deployment targets to iOS 8.0 and OS X 10.9 for the respective frameworks.
+- Deployment targets to iOS 9.0 and OS X 10.9 for the respective frameworks.
   - Updated by [Christian Noon](https://github.com/cnoon).
 - `SessionDelegate` willPerformHTTPRedirection method to accept optional return type
 from override closure.
@@ -715,7 +715,7 @@ Released on 2015-03-26.
 - Code signing identities for the frameworks and targets to better support Carthage.
   - Updated by [Christian Noon](https://github.com/cnoon) in Pull Request
   [#400](https://github.com/Alamofire/Alamofire/pull/400).
-- iOS deployment target to iOS 8.0 for iOS target and tests.
+- iOS deployment target to iOS 9.0 for iOS target and tests.
   - Updated by [Christian Noon](https://github.com/cnoon) in Pull Request
   [#401](https://github.com/Alamofire/Alamofire/pull/401).
 - Legal characters to be escaped according to RFC 3986 Section 3.4.

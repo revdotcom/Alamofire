@@ -23,6 +23,7 @@
 import Alamofire
 import Foundation
 import XCTest
+import Result
 
 class ResponseSerializationTestCase: BaseTestCase {
     let error = NSError(domain: Error.Domain, code: -10000, userInfo: nil)
