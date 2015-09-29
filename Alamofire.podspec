@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors = { 'Alamofire Software Foundation' => 'info@alamofire.org' }
   s.source = { :git => 'https://github.com/Alamofire/Alamofire.git', :tag => s.version }
 
-  s.dependency 'Result', '~> 0.6'
+  s.dependency 'Result', '0.6-beta.1'
 
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.9'
