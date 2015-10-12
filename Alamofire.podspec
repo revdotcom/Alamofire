@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.dependency 'Result', '0.6-beta.1'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.9'
   s.watchos.deployment_target = '2.0'
 
