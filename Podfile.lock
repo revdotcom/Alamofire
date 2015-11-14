@@ -1,10 +1,10 @@
 PODS:
-  - Result (0.6-beta.1)
+  - Result (0.6.0-beta.6)
 
 DEPENDENCIES:
-  - Result (~> 0.6.0-beta)
+  - Result (~> 0.6.0-beta.6)
 
 SPEC CHECKSUMS:
-  Result: af24e3e57ab81005ec4221a53fd36dc1e7a52869
+  Result: dc390d0b58f9ec43fcd536f1ebdd130803cc6cbc
 
 COCOAPODS: 0.39.0.rc.1
